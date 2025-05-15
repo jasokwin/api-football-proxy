@@ -1,8 +1,0 @@
-{
-  "routes": [
-    {
-      "src": "/fixtures",
-      "dest": "/api/fixtures.js"
-    }
-  ]
-}
